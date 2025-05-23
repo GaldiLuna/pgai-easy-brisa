@@ -19,4 +19,6 @@ Tecnologias Utilizadas:
 * *MySQL*
 * *Docker*
 
+
+
   ***Easy - UFAL - Brisa - Softex***
