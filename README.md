@@ -4,21 +4,23 @@ Repositório para o desenvolvimento da solução para o projeto: Plataforma de G
 
 ## Grupo 3 - orientador: Ricardo Beroso
 
- **Parceiro - Senai Alagoas** 
+ **_Parceiro - Senai Alagoas_** 
 
-Integrantes:
-* *Frederico Luna*
-* *Gabriella Nascimento*
-* *Janaine Ferreira*
-* *Higor Lima*
-* *Jacqueline Barbosa*
+**Integrantes:** <br> 
+* _Frederico Luna_ <br>
+* _Gabriella Nascimento_ <br>
+* _Janaine Ferreira_ <br>
+* _Higor Lima_ <br>
+* _Jacqueline Barbosa_ <br>
 
-Tecnologias Utilizadas:
-* *Angular JS*
-* *PHP Laravel*
-* *MySQL*
-* *Docker*
+**Tecnologias Utilizadas:** <br> 
+* _Angular JS_ <br>
+* _PHP Laravel_ <br>
+* _MySQL_ <br>
+* _Docker_ <br>
+  
+<br>
+<br>
 
-
-
+  ***Residência TIC*** <br>
   ***Easy - UFAL - Brisa - Softex***
